@@ -1,14 +1,14 @@
 {
-    "id": "cubenetwork",
-    "name": "CubeNetwork",
+    "id": "hyspace",
+    "name": "HySpace",
     "addresses": [
-        "cubenetwork.it",
-        "spongegames.tk"
+        "hyspace.it",
+        "hyspace.e-splat.net"
     ],
     "gameTypes": [
         "PvP"
     ],    
-    "primaryColor": "#0080db",
-    "secondaryColor": "#2d52b6"
+    "primaryColor": "#b130d1",
+    "secondaryColor": "#531b63"
     
 }
